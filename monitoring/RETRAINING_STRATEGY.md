@@ -314,6 +314,6 @@ Model retraining is successful if:
 
 ---
 
-**Last Updated**: 2026-02-10
-**Owner**: Abhishek Nagare  
+**Owner**: Abhishek Nagare 
+**Last Updated**: 2026-02-10 
 **Review Schedule**: Quarterly
