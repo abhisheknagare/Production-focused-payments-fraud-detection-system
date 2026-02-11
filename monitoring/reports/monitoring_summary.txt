@@ -1,0 +1,10 @@
+
+MODEL MONITORING SUMMARY
+Date: 2026-02-08 13:50:00
+
+Retrain Required: NO
+
+
+Score Drift PSI: 0.0437
+Approval Rate: 99.50%
+Fraud Detection Rate: 80.21%
