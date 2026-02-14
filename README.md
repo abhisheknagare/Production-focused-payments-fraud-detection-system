@@ -566,7 +566,7 @@ fraud-detection-platform/
 │   │   ├── model_comparison.csv
 │   │   ├── precision_recall_curve.png
 │   │   ├── threshold_analysis.png
-│   │   └── api_validation/            #API validation results ← NEW!
+│   │   └── api_validation/            #API validation results 
 │   │       ├── api_predictions.csv        #25K API predictions
 │   │       ├── api_test_summary.json      #Validation metrics
 │   │       └── latency_distribution.csv   #Latency analysis
@@ -576,7 +576,7 @@ fraud-detection-platform/
 │   ├── app.py                         #FastAPI application
 │   ├── test_client.py                 #API functional testing
 │   ├── test_api.sh                    #Shell-based tests
-│   └── batch_score.py                 #Full dataset API validation ← NEW!
+│   └── batch_score.py                 #Full dataset API validation 
 │
 ├── monitoring/
 │   ├── drift_detection.py             #Drift monitoring
